@@ -1,2 +1,2 @@
 # test
-uniapp-混合
+基于vue2，网页移动端app
